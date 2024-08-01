@@ -1,0 +1,33 @@
+{
+    "1839764d-0785-a990-41c8-49a07ad7350b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "74458a7c-f49c-1922-8e48-9d1a2ef7b647": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "a69d40e9-7f60-7517-31c3-e85ed98a238a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Bunny Slope.scene.nasset"
+    },
+    "be3838e9-d0c3-4cfb-b147-386cb4fc41b9": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Bunny Slope",
+        "thumbnail": "d7c1d1ff-641e-b10f-a8e3-3585b2ae849f",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "d7c1d1ff-641e-b10f-a8e3-3585b2ae849f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Bunny_Slope_Thumb.tex.nasset"
+    },
+    "guid": "74458a7c-f49c-1922-8e48-9d1a2ef7b647"
+}
